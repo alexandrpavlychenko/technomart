@@ -1160,6 +1160,8 @@ img {
 
   background-color: var(--color-white);
   background-image: url("../images/btn-arrow-right-greyblue.svg");
+  background-size: 9px 14px;
+  background-position: 15px 12px;
 }
 
 .promo-products-item-btn:active,
