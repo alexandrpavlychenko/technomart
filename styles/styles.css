@@ -1135,7 +1135,7 @@ img {
   display: block;
   margin-bottom: 10px;
   padding: 10px 2px 10px 33px;
-  width: 180px;
+  width: 200px;
   
   font-size: var(--font-s);
   line-height: var(--line-height-s);
@@ -1160,8 +1160,6 @@ img {
 
   background-color: var(--color-white);
   background-image: url("../images/btn-arrow-right-greyblue.svg");
-  background-size: 9px 14px;
-  background-position: 15px 12px;
 }
 
 .promo-products-item-btn:active,
@@ -1847,7 +1845,7 @@ img {
 }
 
 .index-catalog-card-btns > * {
-  width: 135px;
+  width: 145px;
   min-height: 40px;
 }
 
@@ -1969,7 +1967,7 @@ img {
   margin-right: auto;
   margin-bottom: 64px;
   margin-left: auto;
-  max-width: 560px;
+  max-width: 500px;
 
   font-size: var(--font-l);
   line-height: var(--line-height-l);
